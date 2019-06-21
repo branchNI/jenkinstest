@@ -2,4 +2,4 @@
 
 def viPath = ["source\\hello.vi"]
 
-pipelineRun(viPath)
+lvPipeline(viPath)
